@@ -1,2 +1,2 @@
-Tema Algoritmi fundamentali Info IFR 2021
+Algoritmi fundamentali
 Dragos Ciobanu
